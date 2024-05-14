@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Light Monzz <img src="https://media.giphy.com/media/42tS2cfBtj8Y/giphy.gif" width="40"></h1>
+<h1 align="center">Hi 👋, I'm Light Monzz</h1>
 <h3 align="center">A passionate frontend developer from Russia 🇷🇺</h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Synthetic+Gens;++;Self-taught+Python-Developer+and+NodeJS+Dev,;Computer+Science+Student,;CyberSec+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Light+Monzz;++;Self-taught+Python-Developer+and+NodeJS+Dev,;Computer+Science+Student,;CyberSec+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
@@ -15,6 +15,16 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
+
+- A passionate Python Dev
+- I Lift and Play sports in freetime
+- Currently learning Golang 
+- Discord: https://discord.gg/PzvZwCnW
+- Hobbyist Malware Dev
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psx-sc&label=Profile%20views&color=0e75b6&style=flat" alt="psx-sc" /> </p>
 
